@@ -39,7 +39,7 @@ I love turning ideas into working products — from clean React UIs to REST APIs
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-VinothiniVijayakumar-blue)](https://www.linkedin.com/in/VinothiniVijayakumar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://vinothini-portfolio-web.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://vinodev-portfolio.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-vinothinivijayakumar123@gmail.com-red)](mailto:vinothinivijayakumar123@gmail.com)
 
 ---
