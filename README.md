@@ -30,9 +30,9 @@ I love turning ideas into working products — from clean React UIs to REST APIs
 
 ## GitHub Stats
 
-![Vinothini's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinothinivijayakumar-dev&show_icons=true&theme=default&cache_seconds=0)
+![Vinothini's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vinothinivijayakumar-dev&show_icons=true&theme=default&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinothinivijayakumar-dev&layout=compact)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vinothinivijayakumar-dev&layout=compact&cache_seconds=86400)
 
 ---
 
