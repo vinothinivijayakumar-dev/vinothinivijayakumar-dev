@@ -2,8 +2,20 @@
 
 ### MERN Stack Developer | Full-Stack Web Developer 
 
-I build scalable, responsive web applications using the MERN stack, focusing on performance, usability, and clean UI design.
-I love turning ideas into working products — from clean React UIs to REST APIs and MongoDB backends.
+Passionate MERN Stack Developer building real-world full-stack applications with authentication, e-commerce features, and responsive UI.
+
+Focused on writing clean code, creating smooth user experiences, and solving practical problems through web technology.
+
+Currently seeking entry-level / internship opportunities.
+
+---
+
+## Key Highlights
+
+- Built 5+ real-world full-stack web applications using the MERN stack (React, Node.js, Express, MongoDB)
+- Implemented authentication, cart, wishlist, and complete CRUD functionalities
+- Strong focus on responsive UI, performance, and clean design
+- Experience deploying applications using Netlify and Render
 
 ---
 
@@ -20,7 +32,7 @@ I love turning ideas into working products — from clean React UIs to REST APIs
 
 | Project | Description | Stack | Links |
 |---------|-------------|-------|-------|
-| **GiftBuilder** | Full-stack gift e-commerce with auth, cart, wishlist, orders | MERN | [Live](https://giftbuilder.netlify.app/login) · [Code](https://github.com/vinothinivijayakumar-dev/Mern-GiftBuilder-Project) |
+| **GiftBuilder** | Full-stack e-commerce application with user authentication, cart, wishlist, and order management features | MERN | [Live](https://giftbuilder.netlify.app/login) · [Code](https://github.com/vinothinivijayakumar-dev/Mern-GiftBuilder-Project) |
 | **Modern Furniture** | E-commerce site with cart, wishlist, checkout | HTML/CSS/JS | [Live](https://modern-furniera-proj.netlify.app/) · [Code](https://github.com/vinothinivijayakumar-dev/furniture-web-proj) |
 | **Coffee Website** | Mobile-first menu website | HTML/CSS/JS | [Live](https://coffee-web-proj.netlify.app/) · [Code](https://github.com/vinothinivijayakumar-dev/Coffee-Project) |
 | **Employee Management System** | CRUD app to manage employees with dashboard | MERN | [Live](https://employee-management-system-proj.netlify.app/) · [Code](https://github.com/vinothinivijayakumar-dev/employee-management-system) |
@@ -28,11 +40,11 @@ I love turning ideas into working products — from clean React UIs to REST APIs
 
 ---
 
-## GitHub Stats
+## Currently Learning
 
-![Vinothini's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinothinivijayakumar-dev&show_icons=true&theme=default&cache_seconds=86400&v=2)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinothinivijayakumar-dev&layout=compact&cache_seconds=86400&v=2)
+- Advanced React patterns and performance optimization
+- Backend scalability and optimization techniques
+- API security and best practices
 
 ---
 
